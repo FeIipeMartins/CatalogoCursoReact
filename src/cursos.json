@@ -1,0 +1,117 @@
+{
+    "cursos": [
+      {
+        "id": 1,
+        "title": "Curso de React",
+        "instructor": "João Silva",
+        "duration": "4 semanas",
+        "image": "./imagens/React.png"
+      },
+      {
+        "id": 2,
+        "title": "Curso de JavaScript",
+        "instructor": "Maria Santos",
+        "duration": "6 semanas",
+        "image": "./imagens/JavaScript.png"
+      },
+      {
+        "id": 3,
+        "title": "Curso de HTML & CSS",
+        "instructor": "Pedro Almeida",
+        "duration": "3 semanas",
+        "image": "./imagens/HTML & CSS.png"
+      },
+      {
+        "id": 4,
+        "title": "Curso de Python",
+        "instructor": "Ana Oliveira",
+        "duration": "5 semanas",
+        "image": "./imagens/Python.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Curso de Angular",
+        "instructor": "Carlos Ferreira",
+        "duration": "4 semanas",
+        "image": "./imagens/Angular.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Curso de Node.js",
+        "instructor": "Fernanda Lima",
+        "duration": "6 semanas",
+        "image": "./imagens/Node.png"
+      },
+      {
+        "id": 7,
+        "title": "Curso de SQL",
+        "instructor": "Rafaela Santos",
+        "duration": "3 semanas",
+        "image": "./imagens/SQL.png"
+      },
+      {
+        "id": 8,
+        "title": "Curso de Machine Learning",
+        "instructor": "Gustavo Mendes",
+        "duration": "5 semanas",
+        "image": "./imagens/Machine Learning.jpeg"
+      },
+      {
+        "id": 9,
+        "title": "Curso de Design UI/UX",
+        "instructor": "Luana Alves",
+        "duration": "4 semanas",
+        "image": "./imagens/DesignUX.jpeg "
+      },
+      {
+        "id": 10,
+        "title": "Curso de Git e GitHub",
+        "instructor": "Paulo Rodrigues",
+        "duration": "3 semanas",
+        "image": "./imagens/Git e GitHub.jpeg"
+      },
+      {
+        "id": 11,
+        "title": "Curso de Java",
+        "instructor": "Fernando Oliveira",
+        "duration": "6 semanas",
+        "image": "./imagens/Java.jpeg"
+      },
+      {
+        "id": 12,
+        "title": "Curso de PHP",
+        "instructor": "Lucas Pereira",
+        "duration": "4 semanas",
+        "image": "./imagens/PHP.jpeg"
+      },
+      {
+        "id": 13,
+        "title": "Curso de Vue.js",
+        "instructor": "Mariana Costa",
+        "duration": "5 semanas",
+        "image": "./imagens/Vue.jpeg"
+      },
+      {
+        "id": 14,
+        "title": "Curso de Docker",
+        "instructor": "Anderson Oliveira",
+        "duration": "3 semanas",
+        "image": "./imagens/Docker.png"
+      },
+      {
+        "id": 15,
+        "title": "Curso de Swift",
+        "instructor": "Carla Santos",
+        "duration": "4 semanas",
+        "image": "./imagens/Swift.jpeg"
+      },
+      {
+        "id": 16,
+        "title": "Curso de TypeScript",
+        "instructor": "Thiago Almeida",
+        "duration": "5 semanas",
+        "image": "./imagens/TypeScript.png"
+      }
+    ]
+  }
+  
